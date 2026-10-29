@@ -1,0 +1,601 @@
+sale_id,date,product,category,region,channel,price,unit_cost,quantity,discount_pct
+S0001,2026-07-01,Desk organizer,Home,Bratislava,Online,16,6,4,5
+S0002,2026-07-01,USB drive,Electronics,Zilina,Store,16,8,1,20
+S0003,2026-07-01,Mouse,Electronics,Zilina,Online,25,14,3,20
+S0004,2026-07-01,Lamp,Home,Kosice,Online,35,18,2,25
+S0005,2026-07-01,Tote bag,Accessories,Kosice,Online,12,4,1,0
+S0006,2026-07-01,Folder,Stationery,Kosice,Online,5,1.8,3,20
+S0007,2026-07-01,USB drive,Electronics,Bratislava,Online,16,8,3,20
+S0008,2026-07-01,USB drive,Electronics,Kosice,Online,16,8,2,0
+S0009,2026-07-01,Lamp,Home,Zilina,Online,35,18,1,5
+S0010,2026-07-02,Mouse,Electronics,Nitra,Online,25,14,4,15
+S0011,2026-07-02,Pen,Stationery,Bratislava,Store,2,0.65,8,0
+S0012,2026-07-02,Tote bag,Accessories,Kosice,Online,12,4,2,20
+S0013,2026-07-03,Folder,Stationery,Nitra,Online,5,1.8,6,15
+S0014,2026-07-03,Cushion,Home,Bratislava,Store,22,8,3,15
+S0015,2026-07-03,Keyboard,Electronics,Nitra,Online,48,32,2,0
+S0016,2026-07-03,Cable,Electronics,Zilina,Online,10,3,2,15
+S0017,2026-07-03,Lamp,Home,Bratislava,Online,35,18,1,0
+S0018,2026-07-04,Keyboard,Electronics,Bratislava,Store,48,32,1,0
+S0019,2026-07-04,Cable,Electronics,Bratislava,Online,10,3,3,0
+S0020,2026-07-04,Folder,Stationery,Bratislava,Store,5,1.8,3,15
+S0021,2026-07-05,Wallet,Accessories,Zilina,Store,24,9,2,20
+S0022,2026-07-05,Headphones,Electronics,Kosice,Online,75,59,1,0
+S0023,2026-07-05,Bottle,Accessories,Bratislava,Online,18,7,1,10
+S0024,2026-07-05,Headphones,Electronics,Bratislava,Store,75,59,2,0
+S0025,2026-07-06,Backpack,Accessories,Kosice,Store,45,25,5,5
+S0026,2026-07-06,Cable,Electronics,Nitra,Online,10,3,1,10
+S0027,2026-07-06,Desk organizer,Home,Bratislava,Store,16,6,3,0
+S0028,2026-07-06,Headphones,Electronics,Nitra,Store,75,59,3,0
+S0029,2026-07-07,Backpack,Accessories,Kosice,Store,45,25,1,5
+S0030,2026-07-07,Highlighter,Stationery,Bratislava,Online,3,1.1,8,0
+S0031,2026-07-08,Keyboard,Electronics,Kosice,Online,48,32,4,20
+S0032,2026-07-08,Lamp,Home,Kosice,Online,35,18,3,10
+S0033,2026-07-08,Backpack,Accessories,Bratislava,Store,45,25,1,0
+S0034,2026-07-09,Pencil,Stationery,Zilina,Online,1,0.25,8,15
+S0035,2026-07-09,Mug,Home,Bratislava,Store,12,4.5,1,0
+S0036,2026-07-09,Tote bag,Accessories,Zilina,Store,12,4,3,0
+S0037,2026-07-09,Cable,Electronics,Zilina,Online,10,3,3,15
+S0038,2026-07-09,Pen,Stationery,Zilina,Store,2,0.65,2,0
+S0039,2026-07-09,Lamp,Home,Kosice,Store,35,18,1,0
+S0040,2026-07-10,Notebook,Stationery,Zilina,Online,8,3.2,5,25
+S0041,2026-07-10,Pen,Stationery,Bratislava,Store,2,0.65,8,15
+S0042,2026-07-10,USB drive,Electronics,Kosice,Online,16,8,1,0
+S0043,2026-07-10,Bottle,Accessories,Zilina,Store,18,7,1,0
+S0044,2026-07-10,Clock,Home,Bratislava,Store,28,14,1,0
+S0045,2026-07-10,Notebook,Stationery,Kosice,Online,8,3.2,11,10
+S0046,2026-07-10,Mug,Home,Kosice,Online,12,4.5,5,5
+S0047,2026-07-10,Bottle,Accessories,Kosice,Store,18,7,5,10
+S0048,2026-07-11,Cushion,Home,Kosice,Online,22,8,5,10
+S0049,2026-07-11,Wallet,Accessories,Kosice,Store,24,9,2,0
+S0050,2026-07-11,Cushion,Home,Kosice,Online,22,8,4,10
+S0051,2026-07-11,Speaker,Electronics,Kosice,Store,65,42,1,0
+S0052,2026-07-11,Highlighter,Stationery,Bratislava,Online,3,1.1,10,10
+S0053,2026-07-11,Wallet,Accessories,Kosice,Store,24,9,2,10
+S0054,2026-07-11,Mouse,Electronics,Bratislava,Online,25,14,2,10
+S0055,2026-07-11,Desk organizer,Home,Bratislava,Online,16,6,1,0
+S0056,2026-07-11,Backpack,Accessories,Kosice,Store,45,25,3,15
+S0057,2026-07-11,Mouse,Electronics,Zilina,Store,25,14,3,0
+S0058,2026-07-11,Pen,Stationery,Bratislava,Online,2,0.65,5,25
+S0059,2026-07-12,Cable,Electronics,Nitra,Store,10,3,1,0
+S0060,2026-07-12,Cable,Electronics,Kosice,Store,10,3,2,0
+S0061,2026-07-12,Cable,Electronics,Bratislava,Online,10,3,1,10
+S0062,2026-07-12,Keyboard,Electronics,Zilina,Online,48,32,2,10
+S0063,2026-07-12,Speaker,Electronics,Kosice,Online,65,42,3,20
+S0064,2026-07-12,Cushion,Home,Zilina,Online,22,8,2,0
+S0065,2026-07-12,Bottle,Accessories,Kosice,Online,18,7,1,10
+S0066,2026-07-12,Pen,Stationery,Nitra,Online,2,0.65,7,0
+S0067,2026-07-12,Mouse,Electronics,Nitra,Store,25,14,3,0
+S0068,2026-07-12,Pen,Stationery,Nitra,Store,2,0.65,4,25
+S0069,2026-07-12,Clock,Home,Kosice,Online,28,14,1,0
+S0070,2026-07-13,USB drive,Electronics,Kosice,Online,16,8,3,15
+S0071,2026-07-13,Notebook,Stationery,Zilina,Store,8,3.2,3,0
+S0072,2026-07-13,USB drive,Electronics,Nitra,Store,16,8,1,0
+S0073,2026-07-13,Pencil,Stationery,Kosice,Online,1,0.25,4,0
+S0074,2026-07-13,USB drive,Electronics,Bratislava,Store,16,8,3,0
+S0075,2026-07-13,Lamp,Home,Bratislava,Store,35,18,3,0
+S0076,2026-07-14,Keyboard,Electronics,Bratislava,Store,48,32,1,0
+S0077,2026-07-14,Wallet,Accessories,Bratislava,Online,24,9,1,0
+S0078,2026-07-14,Notebook,Stationery,Bratislava,Online,8,3.2,3,20
+S0079,2026-07-14,Speaker,Electronics,Nitra,Online,65,42,1,10
+S0080,2026-07-15,Pen,Stationery,Nitra,Store,2,0.65,9,10
+S0081,2026-07-15,USB drive,Electronics,Kosice,Store,16,8,3,0
+S0082,2026-07-15,Cushion,Home,Bratislava,Online,22,8,2,15
+S0083,2026-07-16,Cushion,Home,Zilina,Online,22,8,1,0
+S0084,2026-07-16,Desk organizer,Home,Nitra,Online,16,6,1,10
+S0085,2026-07-16,Headphones,Electronics,Kosice,Online,75,59,1,0
+S0086,2026-07-16,Clock,Home,Zilina,Store,28,14,5,25
+S0087,2026-07-17,USB drive,Electronics,Bratislava,Store,16,8,1,5
+S0088,2026-07-17,Backpack,Accessories,Bratislava,Online,45,25,3,20
+S0089,2026-07-17,Pen,Stationery,Kosice,Store,2,0.65,3,10
+S0090,2026-07-17,Speaker,Electronics,Kosice,Online,65,42,1,15
+S0091,2026-07-18,Lamp,Home,Zilina,Online,35,18,3,20
+S0092,2026-07-18,Pen,Stationery,Bratislava,Online,2,0.65,9,10
+S0093,2026-07-18,Wallet,Accessories,Bratislava,Store,24,9,5,15
+S0094,2026-07-18,Pencil,Stationery,Bratislava,Online,1,0.25,5,15
+S0095,2026-07-19,Lamp,Home,Zilina,Online,35,18,3,15
+S0096,2026-07-19,Lamp,Home,Kosice,Online,35,18,4,15
+S0097,2026-07-19,Backpack,Accessories,Kosice,Online,45,25,5,15
+S0098,2026-07-20,Pencil,Stationery,Bratislava,Online,1,0.25,3,15
+S0099,2026-07-20,Keyboard,Electronics,Kosice,Online,48,32,1,5
+S0100,2026-07-20,Keyboard,Electronics,Zilina,Store,48,32,2,20
+S0101,2026-07-21,Desk organizer,Home,Bratislava,Store,16,6,1,5
+S0102,2026-07-21,Headphones,Electronics,Nitra,Online,75,59,3,5
+S0103,2026-07-21,Keyboard,Electronics,Zilina,Online,48,32,4,20
+S0104,2026-07-21,Notebook,Stationery,Bratislava,Store,8,3.2,7,0
+S0105,2026-07-21,Notebook,Stationery,Bratislava,Online,8,3.2,7,0
+S0106,2026-07-21,Pencil,Stationery,Bratislava,Store,1,0.25,7,0
+S0107,2026-07-21,Highlighter,Stationery,Bratislava,Store,3,1.1,9,5
+S0108,2026-07-21,Speaker,Electronics,Kosice,Store,65,42,3,0
+S0109,2026-07-21,USB drive,Electronics,Kosice,Store,16,8,4,20
+S0110,2026-07-21,USB drive,Electronics,Bratislava,Store,16,8,3,0
+S0111,2026-07-22,Mug,Home,Bratislava,Store,12,4.5,3,0
+S0112,2026-07-22,Mouse,Electronics,Kosice,Store,25,14,3,10
+S0113,2026-07-22,Pen,Stationery,Nitra,Store,2,0.65,3,0
+S0114,2026-07-22,Pen,Stationery,Kosice,Store,2,0.65,12,0
+S0115,2026-07-22,Pencil,Stationery,Zilina,Store,1,0.25,8,5
+S0116,2026-07-23,Clock,Home,Kosice,Store,28,14,3,20
+S0117,2026-07-23,Bottle,Accessories,Bratislava,Store,18,7,2,0
+S0118,2026-07-23,Backpack,Accessories,Zilina,Store,45,25,4,0
+S0119,2026-07-24,Wallet,Accessories,Kosice,Online,24,9,1,5
+S0120,2026-07-24,Tote bag,Accessories,Kosice,Online,12,4,3,25
+S0121,2026-07-24,Mug,Home,Bratislava,Online,12,4.5,1,0
+S0122,2026-07-24,Cable,Electronics,Kosice,Online,10,3,1,20
+S0123,2026-07-24,Notebook,Stationery,Bratislava,Store,8,3.2,3,0
+S0124,2026-07-24,Backpack,Accessories,Nitra,Online,45,25,1,0
+S0125,2026-07-25,Backpack,Accessories,Zilina,Online,45,25,1,10
+S0126,2026-07-25,Notebook,Stationery,Bratislava,Online,8,3.2,12,5
+S0127,2026-07-25,Notebook,Stationery,Nitra,Store,8,3.2,6,0
+S0128,2026-07-26,Notebook,Stationery,Zilina,Store,8,3.2,9,0
+S0129,2026-07-27,Cable,Electronics,Bratislava,Store,10,3,1,0
+S0130,2026-07-27,Speaker,Electronics,Kosice,Online,65,42,2,20
+S0131,2026-07-27,Mouse,Electronics,Kosice,Online,25,14,6,20
+S0132,2026-07-27,Cushion,Home,Kosice,Store,22,8,3,0
+S0133,2026-07-27,Mouse,Electronics,Zilina,Online,25,14,2,0
+S0134,2026-07-28,Cushion,Home,Bratislava,Online,22,8,3,15
+S0135,2026-07-28,Notebook,Stationery,Bratislava,Online,8,3.2,5,20
+S0136,2026-07-28,Folder,Stationery,Zilina,Store,5,1.8,3,0
+S0137,2026-07-28,Desk organizer,Home,Bratislava,Online,16,6,2,0
+S0138,2026-07-28,Keyboard,Electronics,Kosice,Store,48,32,4,15
+S0139,2026-07-28,Lamp,Home,Kosice,Online,35,18,2,10
+S0140,2026-07-29,Cable,Electronics,Bratislava,Store,10,3,1,5
+S0141,2026-07-29,Cushion,Home,Kosice,Online,22,8,1,5
+S0142,2026-07-29,Mug,Home,Zilina,Store,12,4.5,5,0
+S0143,2026-07-29,Desk organizer,Home,Bratislava,Online,16,6,1,20
+S0144,2026-07-30,Pen,Stationery,Kosice,Online,2,0.65,6,15
+S0145,2026-07-30,Keyboard,Electronics,Bratislava,Store,48,32,3,0
+S0146,2026-07-30,Headphones,Electronics,Nitra,Store,75,59,1,0
+S0147,2026-07-30,Pen,Stationery,Nitra,Store,2,0.65,7,0
+S0148,2026-07-30,Desk organizer,Home,Bratislava,Online,16,6,4,20
+S0149,2026-07-30,Bottle,Accessories,Bratislava,Store,18,7,3,10
+S0150,2026-07-30,Lamp,Home,Kosice,Online,35,18,2,0
+S0151,2026-07-30,Headphones,Electronics,Bratislava,Store,75,59,1,0
+S0152,2026-07-31,Notebook,Stationery,Bratislava,Store,8,3.2,4,0
+S0153,2026-07-31,Keyboard,Electronics,Kosice,Store,48,32,2,20
+S0154,2026-07-31,Notebook,Stationery,Bratislava,Store,8,3.2,6,10
+S0155,2026-07-31,Mug,Home,Zilina,Online,12,4.5,2,10
+S0156,2026-07-31,Keyboard,Electronics,Bratislava,Online,48,32,1,20
+S0157,2026-07-31,Lamp,Home,Bratislava,Online,35,18,3,20
+S0158,2026-08-01,Keyboard,Electronics,Bratislava,Online,48,32,1,0
+S0159,2026-08-01,Mouse,Electronics,Kosice,Store,25,14,3,15
+S0160,2026-08-01,Backpack,Accessories,Zilina,Store,45,25,4,25
+S0161,2026-08-01,Lamp,Home,Kosice,Store,35,18,4,0
+S0162,2026-08-01,Folder,Stationery,Kosice,Online,5,1.8,6,25
+S0163,2026-08-01,Pen,Stationery,Nitra,Store,2,0.65,2,15
+S0164,2026-08-02,Pen,Stationery,Bratislava,Store,2,0.65,5,5
+S0165,2026-08-02,Cushion,Home,Bratislava,Online,22,8,1,10
+S0166,2026-08-02,Speaker,Electronics,Kosice,Online,65,42,3,25
+S0167,2026-08-02,Keyboard,Electronics,Kosice,Store,48,32,1,20
+S0168,2026-08-02,Tote bag,Accessories,Bratislava,Online,12,4,1,0
+S0169,2026-08-02,Wallet,Accessories,Bratislava,Online,24,9,1,10
+S0170,2026-08-02,Notebook,Stationery,Nitra,Store,8,3.2,6,0
+S0171,2026-08-02,Pen,Stationery,Bratislava,Store,2,0.65,6,15
+S0172,2026-08-03,Cushion,Home,Zilina,Store,22,8,2,0
+S0173,2026-08-03,Wallet,Accessories,Bratislava,Online,24,9,3,0
+S0174,2026-08-03,Wallet,Accessories,Kosice,Store,24,9,3,10
+S0175,2026-08-03,Pencil,Stationery,Nitra,Online,1,0.25,4,0
+S0176,2026-08-03,Highlighter,Stationery,Nitra,Online,3,1.1,3,0
+S0177,2026-08-03,Pen,Stationery,Kosice,Online,2,0.65,7,15
+S0178,2026-08-03,Speaker,Electronics,Kosice,Online,65,42,3,10
+S0179,2026-08-03,Cushion,Home,Kosice,Online,22,8,4,15
+S0180,2026-08-03,Desk organizer,Home,Kosice,Online,16,6,2,5
+S0181,2026-08-03,Lamp,Home,Nitra,Online,35,18,1,5
+S0182,2026-08-04,Mug,Home,Kosice,Online,12,4.5,3,5
+S0183,2026-08-04,Headphones,Electronics,Bratislava,Store,75,59,1,0
+S0184,2026-08-04,Backpack,Accessories,Bratislava,Online,45,25,2,10
+S0185,2026-08-04,Notebook,Stationery,Kosice,Online,8,3.2,2,10
+S0186,2026-08-04,Cushion,Home,Bratislava,Online,22,8,1,5
+S0187,2026-08-05,Folder,Stationery,Bratislava,Online,5,1.8,11,10
+S0188,2026-08-05,Wallet,Accessories,Kosice,Store,24,9,2,25
+S0189,2026-08-05,Mug,Home,Kosice,Online,12,4.5,1,0
+S0190,2026-08-05,Headphones,Electronics,Bratislava,Store,75,59,3,20
+S0191,2026-08-05,Folder,Stationery,Kosice,Online,5,1.8,5,5
+S0192,2026-08-05,USB drive,Electronics,Nitra,Online,16,8,3,15
+S0193,2026-08-05,Pencil,Stationery,Bratislava,Online,1,0.25,10,15
+S0194,2026-08-05,Clock,Home,Kosice,Online,28,14,1,0
+S0195,2026-08-05,Pencil,Stationery,Bratislava,Store,1,0.25,9,0
+S0196,2026-08-05,Bottle,Accessories,Bratislava,Online,18,7,1,0
+S0197,2026-08-05,Backpack,Accessories,Nitra,Online,45,25,1,10
+S0198,2026-08-05,USB drive,Electronics,Kosice,Online,16,8,3,10
+S0199,2026-08-06,Bottle,Accessories,Bratislava,Store,18,7,2,0
+S0200,2026-08-06,Bottle,Accessories,Bratislava,Online,18,7,4,5
+S0201,2026-08-06,Bottle,Accessories,Zilina,Online,18,7,5,20
+S0202,2026-08-06,Notebook,Stationery,Bratislava,Online,8,3.2,3,15
+S0203,2026-08-06,Notebook,Stationery,Kosice,Store,8,3.2,9,0
+S0204,2026-08-07,Notebook,Stationery,Zilina,Store,8,3.2,7,0
+S0205,2026-08-07,Headphones,Electronics,Nitra,Store,75,59,1,0
+S0206,2026-08-07,Keyboard,Electronics,Bratislava,Store,48,32,3,0
+S0207,2026-08-07,Lamp,Home,Kosice,Online,35,18,4,20
+S0208,2026-08-08,Mug,Home,Bratislava,Store,12,4.5,1,0
+S0209,2026-08-08,Backpack,Accessories,Bratislava,Store,45,25,3,25
+S0210,2026-08-08,Lamp,Home,Kosice,Online,35,18,2,10
+S0211,2026-08-08,Lamp,Home,Bratislava,Store,35,18,1,0
+S0212,2026-08-08,Notebook,Stationery,Kosice,Store,8,3.2,9,0
+S0213,2026-08-09,Lamp,Home,Kosice,Online,35,18,4,5
+S0214,2026-08-09,Keyboard,Electronics,Zilina,Online,48,32,1,0
+S0215,2026-08-09,Speaker,Electronics,Bratislava,Store,65,42,3,15
+S0216,2026-08-09,Notebook,Stationery,Kosice,Store,8,3.2,9,0
+S0217,2026-08-09,Lamp,Home,Bratislava,Online,35,18,2,0
+S0218,2026-08-09,Notebook,Stationery,Kosice,Online,8,3.2,6,20
+S0219,2026-08-09,Notebook,Stationery,Zilina,Store,8,3.2,12,20
+S0220,2026-08-09,Folder,Stationery,Kosice,Store,5,1.8,5,0
+S0221,2026-08-10,Cable,Electronics,Nitra,Store,10,3,2,15
+S0222,2026-08-10,Backpack,Accessories,Nitra,Online,45,25,4,20
+S0223,2026-08-10,Backpack,Accessories,Kosice,Online,45,25,2,10
+S0224,2026-08-11,Cable,Electronics,Bratislava,Online,10,3,1,10
+S0225,2026-08-11,Clock,Home,Bratislava,Store,28,14,1,0
+S0226,2026-08-11,Headphones,Electronics,Zilina,Store,75,59,3,0
+S0227,2026-08-11,Folder,Stationery,Zilina,Online,5,1.8,9,10
+S0228,2026-08-12,Notebook,Stationery,Bratislava,Online,8,3.2,4,0
+S0229,2026-08-12,Mug,Home,Zilina,Store,12,4.5,4,0
+S0230,2026-08-12,Lamp,Home,Bratislava,Online,35,18,2,10
+S0231,2026-08-12,Lamp,Home,Zilina,Store,35,18,1,0
+S0232,2026-08-12,Keyboard,Electronics,Kosice,Online,48,32,1,10
+S0233,2026-08-12,Pencil,Stationery,Zilina,Online,1,0.25,7,20
+S0234,2026-08-13,Backpack,Accessories,Kosice,Store,45,25,1,0
+S0235,2026-08-13,Folder,Stationery,Bratislava,Online,5,1.8,5,0
+S0236,2026-08-13,Bottle,Accessories,Kosice,Online,18,7,2,0
+S0237,2026-08-13,Bottle,Accessories,Bratislava,Online,18,7,6,10
+S0238,2026-08-13,Speaker,Electronics,Bratislava,Store,65,42,1,0
+S0239,2026-08-13,Pen,Stationery,Bratislava,Online,2,0.65,5,0
+S0240,2026-08-14,USB drive,Electronics,Bratislava,Store,16,8,2,0
+S0241,2026-08-14,Lamp,Home,Zilina,Store,35,18,3,0
+S0242,2026-08-14,Keyboard,Electronics,Bratislava,Store,48,32,1,0
+S0243,2026-08-14,Mouse,Electronics,Zilina,Online,25,14,4,15
+S0244,2026-08-15,Notebook,Stationery,Kosice,Store,8,3.2,5,5
+S0245,2026-08-15,Backpack,Accessories,Kosice,Online,45,25,2,5
+S0246,2026-08-15,Tote bag,Accessories,Bratislava,Store,12,4,1,0
+S0247,2026-08-15,Mouse,Electronics,Zilina,Online,25,14,2,15
+S0248,2026-08-15,USB drive,Electronics,Bratislava,Online,16,8,1,5
+S0249,2026-08-15,Headphones,Electronics,Bratislava,Store,75,59,1,0
+S0250,2026-08-15,Backpack,Accessories,Zilina,Store,45,25,3,0
+S0251,2026-08-15,Bottle,Accessories,Bratislava,Store,18,7,2,0
+S0252,2026-08-15,Bottle,Accessories,Zilina,Store,18,7,6,20
+S0253,2026-08-16,Bottle,Accessories,Zilina,Store,18,7,1,0
+S0254,2026-08-16,Notebook,Stationery,Kosice,Store,8,3.2,8,10
+S0255,2026-08-16,Tote bag,Accessories,Kosice,Store,12,4,4,5
+S0256,2026-08-16,Cable,Electronics,Bratislava,Online,10,3,1,10
+S0257,2026-08-16,Cushion,Home,Kosice,Online,22,8,2,10
+S0258,2026-08-16,Notebook,Stationery,Nitra,Store,8,3.2,5,0
+S0259,2026-08-17,Backpack,Accessories,Kosice,Store,45,25,1,0
+S0260,2026-08-17,Notebook,Stationery,Nitra,Online,8,3.2,10,15
+S0261,2026-08-17,Mouse,Electronics,Zilina,Online,25,14,1,0
+S0262,2026-08-18,Pen,Stationery,Zilina,Store,2,0.65,8,15
+S0263,2026-08-18,Cable,Electronics,Kosice,Store,10,3,1,0
+S0264,2026-08-18,Pen,Stationery,Zilina,Online,2,0.65,5,10
+S0265,2026-08-18,Pen,Stationery,Zilina,Online,2,0.65,5,15
+S0266,2026-08-18,Highlighter,Stationery,Kosice,Store,3,1.1,3,0
+S0267,2026-08-18,USB drive,Electronics,Kosice,Store,16,8,3,0
+S0268,2026-08-19,Lamp,Home,Nitra,Store,35,18,1,0
+S0269,2026-08-19,Mug,Home,Kosice,Online,12,4.5,2,10
+S0270,2026-08-19,Lamp,Home,Bratislava,Online,35,18,5,0
+S0271,2026-08-19,Mouse,Electronics,Kosice,Store,25,14,3,0
+S0272,2026-08-19,Pen,Stationery,Zilina,Online,2,0.65,3,15
+S0273,2026-08-20,Pen,Stationery,Kosice,Online,2,0.65,14,5
+S0274,2026-08-20,Notebook,Stationery,Bratislava,Online,8,3.2,7,15
+S0275,2026-08-20,Cushion,Home,Nitra,Store,22,8,2,15
+S0276,2026-08-20,Mouse,Electronics,Zilina,Online,25,14,2,25
+S0277,2026-08-20,Highlighter,Stationery,Kosice,Online,3,1.1,2,5
+S0278,2026-08-20,Lamp,Home,Bratislava,Online,35,18,2,10
+S0279,2026-08-20,Tote bag,Accessories,Zilina,Online,12,4,1,0
+S0280,2026-08-20,Highlighter,Stationery,Kosice,Online,3,1.1,11,10
+S0281,2026-08-21,Keyboard,Electronics,Bratislava,Store,48,32,2,0
+S0282,2026-08-21,Highlighter,Stationery,Kosice,Store,3,1.1,1,0
+S0283,2026-08-21,Cushion,Home,Kosice,Store,22,8,4,15
+S0284,2026-08-21,Backpack,Accessories,Nitra,Online,45,25,2,10
+S0285,2026-08-21,Tote bag,Accessories,Nitra,Online,12,4,3,15
+S0286,2026-08-21,Bottle,Accessories,Bratislava,Store,18,7,1,0
+S0287,2026-08-21,Mouse,Electronics,Kosice,Store,25,14,6,0
+S0288,2026-08-22,Clock,Home,Bratislava,Online,28,14,2,0
+S0289,2026-08-22,Keyboard,Electronics,Kosice,Online,48,32,1,0
+S0290,2026-08-22,Pencil,Stationery,Kosice,Store,1,0.25,3,0
+S0291,2026-08-22,Pen,Stationery,Zilina,Store,2,0.65,2,0
+S0292,2026-08-22,Headphones,Electronics,Bratislava,Online,75,59,4,0
+S0293,2026-08-23,Pencil,Stationery,Bratislava,Store,1,0.25,6,10
+S0294,2026-08-23,Pen,Stationery,Zilina,Store,2,0.65,6,15
+S0295,2026-08-24,Desk organizer,Home,Zilina,Online,16,6,3,20
+S0296,2026-08-24,Pencil,Stationery,Nitra,Online,1,0.25,1,0
+S0297,2026-08-24,Wallet,Accessories,Zilina,Store,24,9,2,0
+S0298,2026-08-24,Notebook,Stationery,Zilina,Store,8,3.2,7,0
+S0299,2026-08-24,Bottle,Accessories,Bratislava,Store,18,7,1,5
+S0300,2026-08-25,Highlighter,Stationery,Kosice,Store,3,1.1,10,0
+S0301,2026-08-25,Cushion,Home,Zilina,Online,22,8,3,20
+S0302,2026-08-25,Bottle,Accessories,Zilina,Online,18,7,3,25
+S0303,2026-08-25,Headphones,Electronics,Kosice,Store,75,59,3,0
+S0304,2026-08-26,Cable,Electronics,Bratislava,Online,10,3,1,20
+S0305,2026-08-26,Mouse,Electronics,Nitra,Online,25,14,1,5
+S0306,2026-08-26,Cable,Electronics,Bratislava,Store,10,3,2,25
+S0307,2026-08-26,Mouse,Electronics,Kosice,Online,25,14,1,10
+S0308,2026-08-26,Keyboard,Electronics,Bratislava,Store,48,32,5,0
+S0309,2026-08-26,Mouse,Electronics,Kosice,Online,25,14,6,20
+S0310,2026-08-26,Tote bag,Accessories,Bratislava,Store,12,4,1,10
+S0311,2026-08-26,Folder,Stationery,Kosice,Store,5,1.8,6,0
+S0312,2026-08-26,Lamp,Home,Bratislava,Online,35,18,2,20
+S0313,2026-08-26,Pen,Stationery,Bratislava,Online,2,0.65,4,10
+S0314,2026-08-27,Backpack,Accessories,Bratislava,Online,45,25,7,20
+S0315,2026-08-27,Bottle,Accessories,Nitra,Online,18,7,2,10
+S0316,2026-08-27,Cable,Electronics,Zilina,Online,10,3,3,10
+S0317,2026-08-27,Bottle,Accessories,Bratislava,Store,18,7,2,5
+S0318,2026-08-27,Pen,Stationery,Kosice,Store,2,0.65,9,0
+S0319,2026-08-27,Tote bag,Accessories,Kosice,Store,12,4,1,5
+S0320,2026-08-28,Mug,Home,Bratislava,Store,12,4.5,1,5
+S0321,2026-08-28,Clock,Home,Bratislava,Store,28,14,3,25
+S0322,2026-08-28,Headphones,Electronics,Nitra,Store,75,59,2,10
+S0323,2026-08-28,Cable,Electronics,Kosice,Store,10,3,1,0
+S0324,2026-08-28,Pencil,Stationery,Nitra,Online,1,0.25,11,20
+S0325,2026-08-28,Folder,Stationery,Kosice,Online,5,1.8,3,15
+S0326,2026-08-28,Headphones,Electronics,Bratislava,Online,75,59,1,10
+S0327,2026-08-28,Folder,Stationery,Zilina,Online,5,1.8,10,5
+S0328,2026-08-28,Bottle,Accessories,Bratislava,Store,18,7,1,5
+S0329,2026-08-28,Folder,Stationery,Bratislava,Online,5,1.8,7,15
+S0330,2026-08-28,Keyboard,Electronics,Kosice,Online,48,32,1,0
+S0331,2026-08-29,Pen,Stationery,Bratislava,Store,2,0.65,9,0
+S0332,2026-08-29,Bottle,Accessories,Bratislava,Online,18,7,3,10
+S0333,2026-08-29,Folder,Stationery,Kosice,Store,5,1.8,9,0
+S0334,2026-08-29,Pencil,Stationery,Bratislava,Online,1,0.25,5,0
+S0335,2026-08-29,Bottle,Accessories,Bratislava,Online,18,7,2,15
+S0336,2026-08-29,Keyboard,Electronics,Zilina,Online,48,32,1,5
+S0337,2026-08-30,Bottle,Accessories,Bratislava,Online,18,7,1,10
+S0338,2026-08-30,Tote bag,Accessories,Kosice,Store,12,4,6,0
+S0339,2026-08-30,Wallet,Accessories,Zilina,Store,24,9,1,0
+S0340,2026-08-30,Lamp,Home,Kosice,Store,35,18,1,5
+S0341,2026-08-30,Lamp,Home,Kosice,Online,35,18,3,15
+S0342,2026-08-30,Pen,Stationery,Bratislava,Online,2,0.65,2,10
+S0343,2026-08-30,Mug,Home,Bratislava,Store,12,4.5,1,0
+S0344,2026-08-31,Cushion,Home,Bratislava,Store,22,8,1,0
+S0345,2026-08-31,Mug,Home,Bratislava,Store,12,4.5,4,15
+S0346,2026-08-31,Keyboard,Electronics,Kosice,Store,48,32,1,0
+S0347,2026-08-31,Cable,Electronics,Zilina,Store,10,3,1,5
+S0348,2026-08-31,Notebook,Stationery,Bratislava,Store,8,3.2,4,10
+S0349,2026-08-31,Speaker,Electronics,Kosice,Store,65,42,1,5
+S0350,2026-08-31,Mug,Home,Kosice,Store,12,4.5,2,5
+S0351,2026-08-31,Highlighter,Stationery,Zilina,Online,3,1.1,5,10
+S0352,2026-08-31,Desk organizer,Home,Bratislava,Online,16,6,1,10
+S0353,2026-08-31,Tote bag,Accessories,Kosice,Online,12,4,1,10
+S0354,2026-09-01,Notebook,Stationery,Kosice,Store,8,3.2,4,0
+S0355,2026-09-01,Backpack,Accessories,Bratislava,Online,45,25,6,0
+S0356,2026-09-01,Keyboard,Electronics,Kosice,Store,48,32,5,0
+S0357,2026-09-01,Notebook,Stationery,Nitra,Online,8,3.2,3,5
+S0358,2026-09-01,Pen,Stationery,Kosice,Online,2,0.65,1,5
+S0359,2026-09-01,Pen,Stationery,Kosice,Online,2,0.65,6,10
+S0360,2026-09-01,Backpack,Accessories,Bratislava,Online,45,25,1,10
+S0361,2026-09-01,Mouse,Electronics,Bratislava,Store,25,14,2,10
+S0362,2026-09-01,Backpack,Accessories,Bratislava,Online,45,25,1,10
+S0363,2026-09-02,USB drive,Electronics,Bratislava,Store,16,8,5,0
+S0364,2026-09-02,USB drive,Electronics,Bratislava,Online,16,8,1,10
+S0365,2026-09-02,Pen,Stationery,Zilina,Store,2,0.65,9,5
+S0366,2026-09-02,Mug,Home,Zilina,Store,12,4.5,1,0
+S0367,2026-09-02,Pen,Stationery,Nitra,Store,2,0.65,10,0
+S0368,2026-09-02,Cushion,Home,Zilina,Online,22,8,1,0
+S0369,2026-09-02,Headphones,Electronics,Kosice,Store,75,59,2,0
+S0370,2026-09-02,Cushion,Home,Bratislava,Online,22,8,7,20
+S0371,2026-09-03,Pencil,Stationery,Kosice,Online,1,0.25,7,0
+S0372,2026-09-03,Pen,Stationery,Zilina,Store,2,0.65,9,25
+S0373,2026-09-03,Notebook,Stationery,Bratislava,Online,8,3.2,11,15
+S0374,2026-09-03,Backpack,Accessories,Zilina,Online,45,25,5,20
+S0375,2026-09-04,Keyboard,Electronics,Zilina,Online,48,32,3,15
+S0376,2026-09-04,Folder,Stationery,Kosice,Online,5,1.8,7,10
+S0377,2026-09-04,Notebook,Stationery,Kosice,Online,8,3.2,10,10
+S0378,2026-09-04,USB drive,Electronics,Zilina,Store,16,8,2,10
+S0379,2026-09-04,Cable,Electronics,Bratislava,Store,10,3,2,0
+S0380,2026-09-04,Mug,Home,Zilina,Online,12,4.5,1,10
+S0381,2026-09-04,Pen,Stationery,Bratislava,Online,2,0.65,2,0
+S0382,2026-09-04,Headphones,Electronics,Nitra,Online,75,59,1,0
+S0383,2026-09-04,Speaker,Electronics,Bratislava,Store,65,42,1,0
+S0384,2026-09-05,Mug,Home,Bratislava,Store,12,4.5,1,0
+S0385,2026-09-05,Highlighter,Stationery,Kosice,Online,3,1.1,3,15
+S0386,2026-09-05,Headphones,Electronics,Bratislava,Store,75,59,2,0
+S0387,2026-09-05,Mug,Home,Bratislava,Online,12,4.5,1,15
+S0388,2026-09-05,Pencil,Stationery,Kosice,Online,1,0.25,8,0
+S0389,2026-09-05,Cable,Electronics,Zilina,Online,10,3,2,25
+S0390,2026-09-05,Wallet,Accessories,Bratislava,Online,24,9,1,10
+S0391,2026-09-05,Clock,Home,Kosice,Store,28,14,3,10
+S0392,2026-09-06,Cable,Electronics,Kosice,Store,10,3,1,0
+S0393,2026-09-06,Highlighter,Stationery,Zilina,Store,3,1.1,3,0
+S0394,2026-09-06,Pen,Stationery,Zilina,Online,2,0.65,4,0
+S0395,2026-09-06,Speaker,Electronics,Kosice,Online,65,42,1,20
+S0396,2026-09-06,Wallet,Accessories,Bratislava,Store,24,9,1,0
+S0397,2026-09-07,Desk organizer,Home,Kosice,Online,16,6,1,10
+S0398,2026-09-07,Notebook,Stationery,Kosice,Online,8,3.2,3,15
+S0399,2026-09-07,Speaker,Electronics,Kosice,Store,65,42,2,10
+S0400,2026-09-07,Folder,Stationery,Kosice,Online,5,1.8,10,0
+S0401,2026-09-07,Headphones,Electronics,Kosice,Online,75,59,1,15
+S0402,2026-09-07,Cable,Electronics,Bratislava,Online,10,3,1,10
+S0403,2026-09-07,Folder,Stationery,Nitra,Online,5,1.8,1,0
+S0404,2026-09-08,Backpack,Accessories,Kosice,Store,45,25,2,0
+S0405,2026-09-08,Bottle,Accessories,Bratislava,Online,18,7,1,0
+S0406,2026-09-08,Pen,Stationery,Zilina,Online,2,0.65,1,5
+S0407,2026-09-08,Headphones,Electronics,Bratislava,Online,75,59,3,0
+S0408,2026-09-08,Lamp,Home,Nitra,Store,35,18,3,5
+S0409,2026-09-08,Pen,Stationery,Bratislava,Online,2,0.65,2,10
+S0410,2026-09-09,Speaker,Electronics,Zilina,Online,65,42,3,5
+S0411,2026-09-09,Highlighter,Stationery,Kosice,Store,3,1.1,4,0
+S0412,2026-09-09,Headphones,Electronics,Kosice,Online,75,59,2,10
+S0413,2026-09-09,USB drive,Electronics,Bratislava,Online,16,8,1,10
+S0414,2026-09-09,Highlighter,Stationery,Zilina,Online,3,1.1,9,0
+S0415,2026-09-09,Cushion,Home,Nitra,Store,22,8,2,0
+S0416,2026-09-09,Bottle,Accessories,Kosice,Store,18,7,2,5
+S0417,2026-09-09,Keyboard,Electronics,Kosice,Online,48,32,6,20
+S0418,2026-09-10,Backpack,Accessories,Bratislava,Store,45,25,1,0
+S0419,2026-09-10,Cable,Electronics,Nitra,Store,10,3,1,0
+S0420,2026-09-10,Desk organizer,Home,Bratislava,Store,16,6,3,0
+S0421,2026-09-10,Highlighter,Stationery,Bratislava,Online,3,1.1,6,10
+S0422,2026-09-10,Pencil,Stationery,Kosice,Online,1,0.25,3,5
+S0423,2026-09-11,Pen,Stationery,Bratislava,Store,2,0.65,12,0
+S0424,2026-09-11,Bottle,Accessories,Bratislava,Online,18,7,5,20
+S0425,2026-09-11,Keyboard,Electronics,Bratislava,Online,48,32,4,20
+S0426,2026-09-11,Headphones,Electronics,Kosice,Store,75,59,5,0
+S0427,2026-09-11,Desk organizer,Home,Kosice,Online,16,6,2,5
+S0428,2026-09-11,Desk organizer,Home,Bratislava,Online,16,6,1,10
+S0429,2026-09-11,Headphones,Electronics,Kosice,Online,75,59,3,10
+S0430,2026-09-11,Pen,Stationery,Bratislava,Online,2,0.65,6,10
+S0431,2026-09-11,Tote bag,Accessories,Zilina,Store,12,4,1,5
+S0432,2026-09-12,Pencil,Stationery,Kosice,Store,1,0.25,12,0
+S0433,2026-09-12,Mug,Home,Zilina,Online,12,4.5,1,10
+S0434,2026-09-12,Highlighter,Stationery,Bratislava,Store,3,1.1,5,20
+S0435,2026-09-12,Backpack,Accessories,Zilina,Online,45,25,6,10
+S0436,2026-09-12,Headphones,Electronics,Zilina,Online,75,59,2,20
+S0437,2026-09-13,Cable,Electronics,Nitra,Store,10,3,3,0
+S0438,2026-09-13,Notebook,Stationery,Zilina,Online,8,3.2,11,0
+S0439,2026-09-13,Lamp,Home,Kosice,Store,35,18,2,5
+S0440,2026-09-13,Bottle,Accessories,Bratislava,Store,18,7,1,0
+S0441,2026-09-13,Notebook,Stationery,Bratislava,Store,8,3.2,10,0
+S0442,2026-09-13,Folder,Stationery,Bratislava,Store,5,1.8,1,5
+S0443,2026-09-13,Headphones,Electronics,Nitra,Store,75,59,1,0
+S0444,2026-09-13,Pen,Stationery,Bratislava,Online,2,0.65,9,0
+S0445,2026-09-14,Backpack,Accessories,Zilina,Online,45,25,5,20
+S0446,2026-09-14,Pencil,Stationery,Zilina,Online,1,0.25,4,0
+S0447,2026-09-14,Tote bag,Accessories,Kosice,Online,12,4,4,10
+S0448,2026-09-14,Notebook,Stationery,Zilina,Online,8,3.2,6,10
+S0449,2026-09-14,Notebook,Stationery,Bratislava,Online,8,3.2,7,15
+S0450,2026-09-14,Notebook,Stationery,Bratislava,Store,8,3.2,8,0
+S0451,2026-09-14,Cushion,Home,Kosice,Store,22,8,5,0
+S0452,2026-09-14,Pen,Stationery,Zilina,Online,2,0.65,7,20
+S0453,2026-09-14,USB drive,Electronics,Bratislava,Store,16,8,3,5
+S0454,2026-09-14,Notebook,Stationery,Kosice,Store,8,3.2,9,0
+S0455,2026-09-14,Pencil,Stationery,Bratislava,Online,1,0.25,10,5
+S0456,2026-09-14,Backpack,Accessories,Bratislava,Online,45,25,2,15
+S0457,2026-09-14,Pencil,Stationery,Nitra,Store,1,0.25,4,5
+S0458,2026-09-15,Clock,Home,Bratislava,Online,28,14,2,20
+S0459,2026-09-15,Tote bag,Accessories,Kosice,Online,12,4,1,15
+S0460,2026-09-15,Wallet,Accessories,Zilina,Store,24,9,1,0
+S0461,2026-09-15,Keyboard,Electronics,Bratislava,Online,48,32,3,10
+S0462,2026-09-15,Keyboard,Electronics,Bratislava,Store,48,32,3,0
+S0463,2026-09-15,Backpack,Accessories,Nitra,Store,45,25,1,0
+S0464,2026-09-15,Folder,Stationery,Kosice,Online,5,1.8,13,20
+S0465,2026-09-16,Highlighter,Stationery,Kosice,Online,3,1.1,4,15
+S0466,2026-09-16,Notebook,Stationery,Kosice,Store,8,3.2,1,0
+S0467,2026-09-16,Highlighter,Stationery,Kosice,Online,3,1.1,6,5
+S0468,2026-09-16,Headphones,Electronics,Bratislava,Online,75,59,3,10
+S0469,2026-09-16,Speaker,Electronics,Zilina,Store,65,42,1,0
+S0470,2026-09-16,Pen,Stationery,Bratislava,Store,2,0.65,9,0
+S0471,2026-09-17,Pencil,Stationery,Zilina,Online,1,0.25,6,10
+S0472,2026-09-17,Mug,Home,Nitra,Online,12,4.5,3,10
+S0473,2026-09-17,Desk organizer,Home,Bratislava,Online,16,6,5,15
+S0474,2026-09-17,Notebook,Stationery,Zilina,Online,8,3.2,9,0
+S0475,2026-09-17,Pencil,Stationery,Nitra,Online,1,0.25,7,10
+S0476,2026-09-17,USB drive,Electronics,Bratislava,Online,16,8,1,0
+S0477,2026-09-18,Backpack,Accessories,Nitra,Online,45,25,4,10
+S0478,2026-09-18,Notebook,Stationery,Nitra,Online,8,3.2,9,15
+S0479,2026-09-18,Mouse,Electronics,Nitra,Online,25,14,1,0
+S0480,2026-09-18,Backpack,Accessories,Bratislava,Online,45,25,2,25
+S0481,2026-09-18,Mouse,Electronics,Zilina,Online,25,14,4,5
+S0482,2026-09-18,Pen,Stationery,Bratislava,Online,2,0.65,5,5
+S0483,2026-09-18,Folder,Stationery,Zilina,Store,5,1.8,8,0
+S0484,2026-09-18,Cable,Electronics,Kosice,Online,10,3,1,20
+S0485,2026-09-18,Lamp,Home,Nitra,Online,35,18,2,5
+S0486,2026-09-18,Tote bag,Accessories,Nitra,Store,12,4,6,0
+S0487,2026-09-19,Notebook,Stationery,Bratislava,Store,8,3.2,3,15
+S0488,2026-09-19,USB drive,Electronics,Kosice,Store,16,8,6,5
+S0489,2026-09-19,Keyboard,Electronics,Bratislava,Store,48,32,4,10
+S0490,2026-09-19,Pencil,Stationery,Zilina,Online,1,0.25,2,0
+S0491,2026-09-19,Notebook,Stationery,Zilina,Online,8,3.2,7,0
+S0492,2026-09-19,Speaker,Electronics,Bratislava,Online,65,42,4,20
+S0493,2026-09-19,USB drive,Electronics,Kosice,Online,16,8,5,10
+S0494,2026-09-20,Folder,Stationery,Kosice,Online,5,1.8,8,10
+S0495,2026-09-20,Backpack,Accessories,Bratislava,Store,45,25,2,0
+S0496,2026-09-20,Notebook,Stationery,Zilina,Store,8,3.2,8,15
+S0497,2026-09-20,Pencil,Stationery,Kosice,Online,1,0.25,8,15
+S0498,2026-09-20,Backpack,Accessories,Zilina,Store,45,25,1,0
+S0499,2026-09-20,Lamp,Home,Kosice,Online,35,18,2,20
+S0500,2026-09-20,Notebook,Stationery,Bratislava,Online,8,3.2,1,15
+S0501,2026-09-20,Highlighter,Stationery,Kosice,Store,3,1.1,10,0
+S0502,2026-09-20,Lamp,Home,Nitra,Online,35,18,2,5
+S0503,2026-09-20,Notebook,Stationery,Kosice,Online,8,3.2,5,15
+S0504,2026-09-20,Notebook,Stationery,Nitra,Online,8,3.2,8,10
+S0505,2026-09-20,Tote bag,Accessories,Bratislava,Online,12,4,2,15
+S0506,2026-09-20,Desk organizer,Home,Zilina,Online,16,6,3,20
+S0507,2026-09-21,Bottle,Accessories,Kosice,Store,18,7,5,0
+S0508,2026-09-21,Cushion,Home,Bratislava,Store,22,8,3,5
+S0509,2026-09-21,Notebook,Stationery,Kosice,Online,8,3.2,8,0
+S0510,2026-09-21,Cable,Electronics,Kosice,Store,10,3,3,0
+S0511,2026-09-21,Notebook,Stationery,Bratislava,Online,8,3.2,5,0
+S0512,2026-09-21,Mug,Home,Zilina,Online,12,4.5,5,15
+S0513,2026-09-21,Headphones,Electronics,Zilina,Online,75,59,3,20
+S0514,2026-09-21,Backpack,Accessories,Kosice,Online,45,25,3,10
+S0515,2026-09-21,Wallet,Accessories,Bratislava,Online,24,9,5,20
+S0516,2026-09-21,Speaker,Electronics,Bratislava,Store,65,42,1,10
+S0517,2026-09-21,Pen,Stationery,Kosice,Store,2,0.65,2,10
+S0518,2026-09-21,Bottle,Accessories,Nitra,Online,18,7,1,0
+S0519,2026-09-22,USB drive,Electronics,Bratislava,Store,16,8,3,0
+S0520,2026-09-22,Folder,Stationery,Kosice,Store,5,1.8,2,10
+S0521,2026-09-22,Highlighter,Stationery,Bratislava,Store,3,1.1,7,0
+S0522,2026-09-22,Clock,Home,Bratislava,Online,28,14,5,20
+S0523,2026-09-22,Highlighter,Stationery,Bratislava,Store,3,1.1,8,5
+S0524,2026-09-22,Notebook,Stationery,Bratislava,Online,8,3.2,4,10
+S0525,2026-09-22,Lamp,Home,Bratislava,Store,35,18,6,0
+S0526,2026-09-22,Pencil,Stationery,Kosice,Online,1,0.25,2,5
+S0527,2026-09-22,Folder,Stationery,Bratislava,Online,5,1.8,5,10
+S0528,2026-09-22,USB drive,Electronics,Kosice,Online,16,8,1,10
+S0529,2026-09-22,Backpack,Accessories,Nitra,Store,45,25,2,5
+S0530,2026-09-22,Highlighter,Stationery,Nitra,Store,3,1.1,10,10
+S0531,2026-09-23,Notebook,Stationery,Nitra,Online,8,3.2,4,15
+S0532,2026-09-23,Highlighter,Stationery,Kosice,Online,3,1.1,2,0
+S0533,2026-09-23,Highlighter,Stationery,Bratislava,Store,3,1.1,9,0
+S0534,2026-09-23,Backpack,Accessories,Kosice,Online,45,25,4,15
+S0535,2026-09-23,Notebook,Stationery,Nitra,Online,8,3.2,7,0
+S0536,2026-09-23,Tote bag,Accessories,Bratislava,Online,12,4,4,10
+S0537,2026-09-24,Desk organizer,Home,Bratislava,Store,16,6,1,0
+S0538,2026-09-24,Notebook,Stationery,Bratislava,Online,8,3.2,9,10
+S0539,2026-09-24,Highlighter,Stationery,Kosice,Online,3,1.1,4,10
+S0540,2026-09-24,Highlighter,Stationery,Kosice,Online,3,1.1,1,10
+S0541,2026-09-24,Notebook,Stationery,Nitra,Online,8,3.2,4,0
+S0542,2026-09-24,Pen,Stationery,Zilina,Online,2,0.65,9,10
+S0543,2026-09-25,Highlighter,Stationery,Bratislava,Online,3,1.1,10,20
+S0544,2026-09-25,Pen,Stationery,Kosice,Online,2,0.65,6,10
+S0545,2026-09-25,Mouse,Electronics,Zilina,Store,25,14,2,5
+S0546,2026-09-25,Lamp,Home,Zilina,Online,35,18,3,0
+S0547,2026-09-25,Pen,Stationery,Kosice,Online,2,0.65,4,15
+S0548,2026-09-25,Tote bag,Accessories,Nitra,Store,12,4,2,0
+S0549,2026-09-25,Cable,Electronics,Nitra,Online,10,3,4,10
+S0550,2026-09-25,Highlighter,Stationery,Bratislava,Online,3,1.1,5,0
+S0551,2026-09-25,Cushion,Home,Nitra,Online,22,8,3,20
+S0552,2026-09-25,Backpack,Accessories,Nitra,Online,45,25,3,20
+S0553,2026-09-25,Mug,Home,Kosice,Online,12,4.5,1,20
+S0554,2026-09-26,Backpack,Accessories,Bratislava,Store,45,25,2,0
+S0555,2026-09-26,Wallet,Accessories,Bratislava,Online,24,9,1,0
+S0556,2026-09-26,Pen,Stationery,Kosice,Online,2,0.65,8,0
+S0557,2026-09-26,Lamp,Home,Bratislava,Online,35,18,1,20
+S0558,2026-09-26,Notebook,Stationery,Kosice,Online,8,3.2,4,10
+S0559,2026-09-26,Pencil,Stationery,Bratislava,Online,1,0.25,5,20
+S0560,2026-09-26,Highlighter,Stationery,Kosice,Store,3,1.1,6,0
+S0561,2026-09-26,Highlighter,Stationery,Kosice,Online,3,1.1,2,0
+S0562,2026-09-26,Notebook,Stationery,Bratislava,Online,8,3.2,8,10
+S0563,2026-09-26,Lamp,Home,Zilina,Online,35,18,2,10
+S0564,2026-09-26,Cushion,Home,Bratislava,Store,22,8,5,0
+S0565,2026-09-27,Tote bag,Accessories,Bratislava,Online,12,4,1,15
+S0566,2026-09-27,Wallet,Accessories,Nitra,Online,24,9,2,5
+S0567,2026-09-27,Notebook,Stationery,Nitra,Store,8,3.2,9,0
+S0568,2026-09-27,USB drive,Electronics,Nitra,Online,16,8,7,20
+S0569,2026-09-27,Speaker,Electronics,Bratislava,Online,65,42,2,15
+S0570,2026-09-27,Mouse,Electronics,Bratislava,Online,25,14,2,10
+S0571,2026-09-27,Clock,Home,Kosice,Online,28,14,5,10
+S0572,2026-09-27,Notebook,Stationery,Zilina,Store,8,3.2,8,5
+S0573,2026-09-27,Notebook,Stationery,Nitra,Online,8,3.2,4,10
+S0574,2026-09-27,Backpack,Accessories,Kosice,Store,45,25,4,5
+S0575,2026-09-27,Notebook,Stationery,Nitra,Online,8,3.2,3,15
+S0576,2026-09-27,Notebook,Stationery,Zilina,Online,8,3.2,8,15
+S0577,2026-09-27,Notebook,Stationery,Zilina,Online,8,3.2,6,10
+S0578,2026-09-27,Pen,Stationery,Bratislava,Online,2,0.65,8,10
+S0579,2026-09-28,Tote bag,Accessories,Zilina,Online,12,4,3,15
+S0580,2026-09-28,Clock,Home,Kosice,Online,28,14,2,5
+S0581,2026-09-28,Cushion,Home,Bratislava,Online,22,8,2,20
+S0582,2026-09-28,Lamp,Home,Nitra,Online,35,18,2,20
+S0583,2026-09-28,Folder,Stationery,Bratislava,Online,5,1.8,10,0
+S0584,2026-09-29,Notebook,Stationery,Nitra,Store,8,3.2,3,0
+S0585,2026-09-29,Pen,Stationery,Kosice,Online,2,0.65,4,10
+S0586,2026-09-29,Pen,Stationery,Zilina,Store,2,0.65,9,10
+S0587,2026-09-29,Speaker,Electronics,Bratislava,Online,65,42,1,0
+S0588,2026-09-30,Pen,Stationery,Bratislava,Store,2,0.65,4,15
+S0589,2026-09-30,Cable,Electronics,Nitra,Store,10,3,1,10
+S0590,2026-09-30,Highlighter,Stationery,Bratislava,Online,3,1.1,2,10
+S0591,2026-09-30,Notebook,Stationery,Bratislava,Online,8,3.2,1,0
+S0592,2026-09-30,Notebook,Stationery,Kosice,Store,8,3.2,8,0
+S0593,2026-09-30,Cable,Electronics,Bratislava,Online,10,3,2,10
+S0594,2026-09-30,Mouse,Electronics,Zilina,Online,25,14,1,10
+S0595,2026-09-30,Cable,Electronics,Kosice,Online,10,3,3,15
+S0596,2026-09-30,Notebook,Stationery,Bratislava,Online,8,3.2,5,0
+S0597,2026-09-30,Speaker,Electronics,Bratislava,Online,65,42,4,15
+S0598,2026-09-30,Folder,Stationery,Kosice,Online,5,1.8,3,10
+S0599,2026-09-30,Mug,Home,Kosice,Online,12,4.5,5,15
+S0600,2026-09-30,Pencil,Stationery,Zilina,Store,1,0.25,5,0
